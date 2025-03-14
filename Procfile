@@ -1,1 +1,1 @@
-web: gunicorn raiisite.wsgi
+web: gunicorn raiisite.raiisite.wsgi
